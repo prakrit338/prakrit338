@@ -129,8 +129,6 @@ I'm always excited to discuss AI/ML projects, research opportunities, or potenti
 
 ### 💬 "Bridging the gap between complex data and user-friendly AI solutions"
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=prakrit338&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
 
 ---
