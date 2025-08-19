@@ -6,10 +6,10 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[linkedin.com/in/prakrit338](https://np.linkedin.com/in/prakrit-timilsina-5a6638190))
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prakrit)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakrittimilsina23@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)]([(https://prakrittimilsina.vercel.app/]))
   
 </div>
 
@@ -120,61 +120,6 @@ I'm a passionate **AI and Machine Learning Engineer** specializing in **Large La
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakrit338&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakrit338&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prakrit338&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakrit338&repo=your-best-project-1&theme=tokyonight)](https://github.com/prakrit338/your-best-project-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prakrit338&repo=your-best-project-2&theme=tokyonight)](https://github.com/prakrit338/your-best-project-2)
-
-</div>
-
-### 🌟 Project Highlights
-
-- **🤖 [Advanced RAG Pipeline](https://github.com/prakrit338/advanced-rag-pipeline)** - Multi-modal RAG system with custom embeddings
-- **🧠 [LLM Fine-tuning Framework](https://github.com/prakrit338/llm-finetuning)** - Scalable framework for domain-specific LLM training
-- **📊 [NER Model for Scientific Text](https://github.com/prakrit338/scientific-ner)** - Custom NER model for extracting entities from research papers
-- **☁️ [ML Model Deployment Platform](https://github.com/prakrit338/ml-deployment-platform)** - End-to-end MLOps platform on AWS
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prakrit338&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
-
----
-
-## 🎓 Research & Publications
-
-- 📄 **"Efficient Fine-tuning of Large Language Models for Domain-Specific Tasks"** - *AI Research Conference 2024*
-- 📄 **"Scalable RAG Systems: Architecture and Performance Optimization"** - *MLSys Workshop 2024*
-- 📄 **"Custom NER Models for Scientific Literature: A Comparative Study"** - *NLP in Science 2024*
-
----
-
-## 💡 Current Focus
-
-- 🔬 **Research**: Advanced RAG architectures with multi-agent systems
-- 🛠️ **Development**: Building production-ready LLM inference platforms
-- 📚 **Learning**: Exploring emerging AI safety and alignment techniques
-- 🤝 **Collaboration**: Open to partnerships on innovative AI projects
-
----
 
 ## 📞 Let's Connect!
 
