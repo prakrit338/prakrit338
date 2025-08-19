@@ -1,7 +1,7 @@
 # Hi there, I'm Prakrit! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E96FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data+LLM+%26+NLP;Cloud+Infrastructure;RAG+Pipeline+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E96FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Data,+LLM+%26+NLP;Cloud+Infrastructure;RAG+Pipeline+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
